@@ -16,7 +16,7 @@ SpectralRelay is a software-defined radio (SDR)-based tool designed for scanning
 ---
 ## How It Works
 
-The concept behind Spectral Relay is based on the theory that spirits or ghosts may communicate through radio frequencies. This theory suggests that when a spirit chooses to speak, its voice can be heard on any frequency the device is tuned to.
+The concept behind SpectralRelay is based on the theory that spirits or ghosts may communicate through radio frequencies. This theory suggests that when a spirit chooses to speak, its voice can be heard on any frequency the device is tuned to.
 
 SpectralRelay continuously sweeps through FM, AM, and other frequency ranges to detect such occurrences. If a voice is heard consistently across multiple frequencies during a sweep, it is interpreted as a potential spirit communication.
 
