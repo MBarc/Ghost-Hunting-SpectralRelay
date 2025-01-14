@@ -37,13 +37,11 @@ All audio is recorded, allowing for detailed analysis at a later time. Additiona
 ## Hardware
 
 ### Parts List
-- 3x DHT22 Sensors
-- 1x 9V Battery
-- 1x 9V Battery Case
-- 1x TTP223B Capacitive Touch Sensor
-- 1x Arduino Nano
-- 2x Green LEDs
-- 2x 220 Ohm Resistors
+- 1x Raspberry Pi 3b+
+- 1x Speaker with 3.5mm Audio Jack
+- 1x RTL2832U
+- 1x R820T2
+- 2x 18650 batteries
 
 ### Hardware Setup
 ![alt text](https://github.com/MBarc/Ghost-Hunting-PhantomSense/blob/main/PhantomSenseDiagram.png)
