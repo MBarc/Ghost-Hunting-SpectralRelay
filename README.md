@@ -1,1 +1,1 @@
-# Ghost-Hunting-Spectral-Relay
+# SpectralRelay: A Ghost Hunting Device
