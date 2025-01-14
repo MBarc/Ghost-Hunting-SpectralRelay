@@ -4,7 +4,7 @@
 
 <h1 align="center">SpectralRelay: A Ghost Hunting Device</h1>
 
-This repository contains the code and documentation for a custom-built **PhantomSense** device designed to detect paranormal activity. The device uses a combination of **DHT22 sensors** and a **TTP223B Capacitive Touch Sensor** to confirm the presence of spirits based on changes in temperature and touch interaction.
+SpectralRelay is a software-defined radio (SDR)-based tool designed for scanning and analyzing radio frequencies. Originally envisioned for paranormal investigations, this project is a versatile solution capable of sweeping through different frequency ranges, processing live radio signals, and converting them into audible formats. Users will be able to listen to real-time audio feed and analyze logged data for further analysis.
 
 ## Table of Contents
 - [How It Works](#how-it-works)
