@@ -18,7 +18,7 @@ SpectralRelay is a software-defined radio (SDR)-based tool designed for scanning
 
 The concept behind Spectral Relay is based on the theory that spirits or ghosts may communicate through radio frequencies. This theory suggests that when a spirit chooses to speak, its voice can be heard on any frequency the device is tuned to.
 
-Spectral Relay continuously sweeps through FM, AM, and other frequency ranges to detect such occurrences. If a voice is heard consistently across multiple frequencies during a sweep, it is interpreted as a potential spirit communication.
+SpectralRelay continuously sweeps through FM, AM, and other frequency ranges to detect such occurrences. If a voice is heard consistently across multiple frequencies during a sweep, it is interpreted as a potential spirit communication.
 
 All audio is recorded, allowing for detailed analysis at a later time. Additionally, the specific frequencies over which the voice is detected are logged, enabling users to identify patterns or correlations that may emerge in spirit communications.
 
@@ -26,14 +26,11 @@ All audio is recorded, allowing for detailed analysis at a later time. Additiona
 
 ## Features
 
-### Dual Confirmation Mechanism
-The device confirms the presence of a spirit through two simultaneous criteria:
-1. **Touch Detection**:
-   - The TTP223B Capacitive Touch Sensor detects physical contact.
-2. **Temperature Anomaly**:
-   - The two front DHT22 sensors register a temperature colder than the environmental temperature recorded by the back DHT22 sensor.
-
-This dual confirmation system helps minimize false positives and ensures reliable detection.
+- Frequency Scanning: Configurable start, stop, and sweep speed parameters for frequency range scanning.
+- Real-Time Playback: Converts and plays SDR signals as audio in real-time.
+- Signal Processing: High-performance processing pipeline for turning SDR samples into magnitude-based audio signals.
+- Event Logging: Logs scanned frequencies and potential anomalies for later review.
+- Recorded Sessions: Audio produced by the SpectralRelay is recorded for further analysis at a later time.
 
 ---
 
